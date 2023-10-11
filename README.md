@@ -1,10 +1,10 @@
 ### Hi there 👋
-Welcome!
+Welcome! I'm a high school student in China.
 
 ### 📫 Link
-QQ:1336551637
+QQ:2958445350
 
-Blog:https://yang233.top
+My Blog:https://yang233.cn
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hkyang233)](https://github.com/anuraghazra/github-readme-stats)
 
