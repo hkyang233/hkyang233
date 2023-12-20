@@ -11,7 +11,7 @@ Welcome! I'm a high school student in China.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-![LightRoom](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-lightroom)
+![LightRoom](https://img.shields.io/badge/-LightRoom-333333?style=flat&logo=adobe-lightroom)
 
 ## ✨ Github Stats
 
