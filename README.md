@@ -21,6 +21,3 @@ Welcome! I'm a student in China.
 
 
 ## 📫 Link
-QQ:2958445350
-
-My Blog:https://yang233.cn
